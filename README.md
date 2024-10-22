@@ -17,6 +17,6 @@ I am a **Full Stack Software Engineer** with a passion for building web applicat
 - **Databases**: PostgreSQL, MongoDB
 - **Tools**: Git, GitHub, VS Code
 
-## 📈 GitHub Stats
+
 
 You can view my resume [here] https://www.dropbox.com/scl/fi/1y8pwx2d0jq52x0cou9kl/Resume-Olivier.pdf?rlkey=cnq7mlp9442m4b982zuy3fwea&st=t0xu48ud&dl=0
