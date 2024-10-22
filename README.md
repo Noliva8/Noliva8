@@ -12,7 +12,7 @@ I am a **Full Stack Software Engineer** with a passion for building web applicat
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, Python
 - **Frameworks**: React, Node.js, Express
 - **Databases**: PostgreSQL, MongoDB
 - **Tools**: Git, GitHub, VS Code
